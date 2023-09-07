@@ -1,0 +1,15 @@
+.Box {
+	margin: 10px;
+	position: relative;
+	border-radius: 5px;
+}
+
+.button {
+	position: absolute;
+	right: -1px;
+	top: -1px;
+	border-radius: 5px;
+	border: none;
+	opacity: 0.5;
+	color: blue;
+}
